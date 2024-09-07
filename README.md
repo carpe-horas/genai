@@ -1,6 +1,11 @@
-# 🎈 Blank app template
+# 🎈 AI 이미지 생성기
 
-A simple Streamlit app template for you to modify!
+![프로젝트 로고](./images/image01.jpg)
+
+
+
+
+# A simple Streamlit app template for you to modify!
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
 
