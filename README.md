@@ -36,9 +36,4 @@
 
 
 
-📦 프로젝트 루트 디렉터리
-├── 📁 images
-│   └── image01.jpg
-├── 📄 streamlit_app.py  # 메인 애플리케이션 코드
-├── 📄 requirements.txt  # 필수 패키지 리스트
-└── 📄 README.md  # 현재 읽고 있는 파일
+📦 프로젝트 루트 디렉터리 ├── 📁 images │ └── image01.jpg ├── 📄 streamlit_app.py # 메인 애플리케이션 코드 ├── 📄 requirements.txt # 필수 패키지 리스트 └── 📄 README.md # 현재 읽고 있는 파일
